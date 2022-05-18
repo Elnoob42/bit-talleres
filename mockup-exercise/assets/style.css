@@ -1,0 +1,29 @@
+/* globales */
+.bg-customgreen {
+    background-color:#01504A;
+}
+.text-white {
+    color: white;
+}
+.text-customgreen {
+    color: #01504A;
+}
+/* form pag.1*/
+.box-details {
+    box-shadow: 10px 10px 30px ;
+    width: 300px;
+    height: auto;
+    margin-top: 250px;
+}
+.btn-effect {
+    color: white;
+    width: 180px;
+}
+.btn-effect:hover {
+    color: #01504A;
+}
+/*imagen página 2 */
+.img-size {
+    height: 800px;
+    width: 800px;
+}
